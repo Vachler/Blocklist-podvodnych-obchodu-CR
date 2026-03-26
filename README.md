@@ -44,7 +44,7 @@ Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukr
 
 ### ⚠️ Upozornění pro uživatele DNS filtrů (Pi-hole / AdGuard Home)
 
-Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje konkrétní podstránku (`např. domena.cz/podvod`), tyto filtry z bezpečnostních důvodů zablokují celou doménu domena.cz. V doplňcích jako uBlock Origin nebo AdGuard (prohlížeč) bude blokována pouze konkrétní podstránka.
+Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje konkrétní podstránku např. (`domena.cz/podvod`), tyto filtry z bezpečnostních důvodů zablokují celou doménu (`domena.cz`). V doplňcích jako uBlock Origin nebo AdGuard (prohlížeč) bude blokována pouze konkrétní podstránka.
 
 1. **Agresivnější blokování:** Pokud seznam obsahuje konkrétní podstránku na jinak legitimním webu, Pi-hole/AG Home **zablokuje přístup k celému tomuto webu**.
 2. **Falešná pozitiva:** Ve výjimečných případech se může stát, že bude nedostupná stránka, kterou běžně používáte, protože na ní ČOI detekovala rizikovou aktivitu.
