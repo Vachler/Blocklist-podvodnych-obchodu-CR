@@ -1,8 +1,9 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 26.03.2026 03:48
+# AKTUALIZOVÁNO: 26.03.2026 03:54
 # POČET POLOŽEK: 982
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
+# EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
 # ===============================================================
 
