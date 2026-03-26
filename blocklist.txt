@@ -1,6 +1,10 @@
-! Title: Rizikove e-shopy COI.cz
-! Total items: 982
-! Last update: 2026
+# ===============================================================
+# NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
+# AKTUALIZOVÁNO: 26.03.2026 03:48
+# POČET POLOŽEK: 982
+# FORMÁT: AdGuard / uBlock Origin / Pi-hole
+# PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
+# ===============================================================
 
 ||100-solarni-lampa-cz.com^
 ||123-123.cz^
