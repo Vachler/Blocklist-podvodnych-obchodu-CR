@@ -16,7 +16,7 @@ Neopisujte domény ručně. Stačí zkopírovat tento odkaz do vašeho blokátor
 https://raw.githubusercontent.com/Vachler/coi-blocklist/main/blocklist.txt
 ```
 
-> ### $\color{gold}{\textsf{NEBO}}$
+$\color{gold}{\text{NEBO}}$
 
 Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 
@@ -71,5 +71,3 @@ Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje k
 
 ---
 ![Návštěvnost](https://komarev.com/ghpvc/?username=Vachler-coi-blocklist&color=green&style=square&label=NÁVŠTĚVNOST)
-
-$\color{gold}{\text{NEBO}}$
