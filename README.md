@@ -16,6 +16,3 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 * **Počet domén:** Aktuálně cca 980+
 * **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
 * **Formát:** AdGuard/uBlock kompatibilní (`||domena.cz^`)
-
-### 🛠️ Jak to funguje?
-Na pozadí běží Python skript, který prohledá web ČOI, vytáhne názvy e-shopů, pročistí je od systémových webů (whitelist) a uloží je do souboru `blocklist.txt`. Vše probíhá v cloudu GitHubu, takže tvůj počítač nemusí být zapnutý.
