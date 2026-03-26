@@ -1,7 +1,7 @@
 # ===============================================================
 # NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)
-# AKTUALIZOVÁNO: 26.03.2026 03:54
-# POČET POLOŽEK: 982
+# AKTUALIZOVÁNO: 26.03.2026 19:21
+# POČET POLOŽEK: 1076
 # FORMÁT: AdGuard / uBlock Origin / Pi-hole
 # EXPIRES: 1 days
 # PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR
@@ -29,6 +29,7 @@
 ||adelapraha.cz^
 ||adhesionplum.com^
 ||adidasunderwear.com^
+adnet99.com/pr/bactefortleadbit8medpapilomiwheelcz/?sub1=8ccf0ee4e96351d08739b9e673a86058-5962-0727
 ||aenact.lol^
 ||aercruft.com^
 ||afinhoew.shop^
@@ -53,6 +54,7 @@
 ||anezka-brno.cz^
 ||annafieldcz.cz^
 ||antikwariat.cz^
+archive.ulaanbaatar.mn/curl/m4/
 ||arctiqo.cz^
 ||ariat.cz^
 ||armedangels.cz^
@@ -76,6 +78,7 @@
 ||bdric34.world^
 ||bebince.com^
 ||bedernioperkacz.com^
+beintro.site/
 ||beistravel.cz^
 ||bellcasual.com^
 ||belleef.com^
@@ -84,6 +87,7 @@
 ||benuker.tech^
 ||bestbrandsczech.com^
 ||bestbtcoffers.com^
+besttovarsale.com/page/605cf8f3cfe5036e41bbe16a244f9cde0cd91ba0/
 ||bgznyxlbkgp.digital^
 ||bifcaa.vip^
 ||billabongcz.cz^
@@ -95,6 +99,7 @@
 ||blaha-moda.cz^
 ||blockchain.com^
 ||bluejadefinds.com^
+bnbgtp.shop/n3ji80c9fk00
 ||boilingsmart.com^
 ||booho.sk^
 ||bookevenement.com^
@@ -113,6 +118,8 @@
 ||brooksrunning-cz.com^
 ||buechliebhaberclub.com^
 ||bundycz.cz^
+bunfader-investing.eu/
+buy.layoners.com/cz/slunecni-bryle-racer/
 ||buyandorder.com^
 ||buycz.shop^
 ||buyfivestore.com^
@@ -131,10 +138,13 @@
 ||cccmall.top^
 ||ccgreatmart.com^
 ||celerra-praha.com^
+central2013.eu/keto-diet/
 ||centralniregistrdluzniku.cz^
 ||centrum-cesta.cz^
+centrumnavyku.cz/obchod
 ||cerd.cz^
 ||certifikatlevne.cz^
+ceska-televize.kantaapnews.com/?utm_medium=23857451519870221&utm_campaign=kiplrlaiwlaiwlvib&fbclid=iwar33g8lsbi0m0zivijptggzdg-_fqerxrffkmiyiwpq3r6-pjpzzlahgof0
 ||ceskomikulovskakuchyne.com^
 ||cewzone.shop^
 ||change-of-assets.com^
@@ -154,12 +164,20 @@
 ||cloudcheats.cc^
 ||coachcz.cz^
 ||comme-des-garcons.cz^
+communityoffersdaily.com/420/nttwbv2/
 ||converseczeshop.cz^
 ||cos-czechrepublic.cz^
 ||coseshopcz.cz^
+cpagettigeneral7.com/t6uc/l/
+cpagettistream1.com/tkjj/l/
+cpaggette3.com/t08l/
+cpgtpotok5.com/t8zz/
 ||craness.shop^
+crazesalestore.com/car-starter-czz
+crazyprodnew.com/
 ||creaketure.com^
 ||creeledcz.com^
+crypsome.click/ffmyv1?click_id=6422c6236ebed20001208132&pid=2&sub3=207244268613304
 ||cryptoeddu.com^
 ||cyun.sanni.store^
 ||cz-cardio-nrj.beauty-shopping.net^
@@ -186,8 +204,10 @@
 ||cz.hmtoudiu.com^
 ||cz.huawint.com^
 ||cz.indoorsuper.com^
+cz.irecommendz.com/review/artroser/
 ||cz.ketodietv.com^
 ||cz.landevrv.com^
+cz.lekarskereporteri24.com/article/weightloss_cz/prulom-v-boji-s-obezitou/
 ||cz.memorylight.eu^
 ||cz.nanovein.eu^
 ||cz.onlinecheap2021.ru^
@@ -195,6 +215,7 @@
 ||cz.thetrackkey.com^
 ||cz.thexdrone.org^
 ||cz.wlosnd.com^
+cz1.alfazv.com/?tid=63035c89005b7a4bc00d2165&c=cz
 ||cz1.alkotoxv.com^
 ||cz1.flekobalm.pro^
 ||cz1.hondrostrc.com^
@@ -225,10 +246,12 @@
 ||czsale.2021shoponline.com^
 ||czsale.2023discountoutlets.com^
 ||czyogashop.com^
+dailygizmoshop.com/black-curtain-cz
 ||damecbd.eu^
 ||dana-praha.cz^
 ||dashingsoul.com^
 ||datalistshop.com^
+daunag.store/cz/
 ||dcczech.com^
 ||ddsad.shop^
 ||dealsllovers.com^
@@ -242,6 +265,7 @@
 ||deuters.cz^
 ||dfyne.cz^
 ||diapromin-cz.peoplestorry.com^
+didlasower-invest.pro/
 ||difmark.com^
 ||discountsales.2023factory.ru^
 ||disposaa.shop^
@@ -257,6 +281,7 @@
 ||drmartenscs.myshoplaza.com^
 ||drmartenscz.cz^
 ||drmartensczshops.cz^
+ducon.space/cs
 ||dukex.live^
 ||dvdfunny.top^
 ||edhardy-cz.cz^
@@ -281,7 +306,9 @@
 ||eu-notino.shop^
 ||eu.realnews.life^
 ||eur.shein.com^
+euroboxy.cz/akce/
 ||europebitcoinlab.com^
+eusales.shop/products/therapeutic-device
 ||eva-cz.co^
 ||evasiveinfo.com^
 ||evehaojk.com^
@@ -290,6 +317,7 @@
 ||evropa-pelety.com^
 ||evropa-pelety.eu^
 ||ewoman.cz^
+eyewear4you.cz/wps/zvyazk/lupa.php
 ||fableticsvyprodej.cz^
 ||fafasecond-hand888.shop^
 ||fanancod.com^
@@ -297,6 +325,7 @@
 ||faymoon.com^
 ||fcoklskodd.top^
 ||fialovapraha.cz^
+fikldas-invest.pro/
 ||filacz.cz^
 ||fischerair.eu^
 ||fitcelenka.myshopify.com^
@@ -328,6 +357,7 @@
 ||gemgolden.com^
 ||genialstuff.cz^
 ||geoxczeshop.cz^
+getfityourbody.com/420/levasanmaz-med-m/gps/
 ||getmerbix.store^
 ||getshift.shop^
 ||giciedd.monster^
@@ -335,8 +365,11 @@
 ||gjrdcf.com^
 ||glammering.cz^
 ||glik.cz^
+globalpromotiontool.com/420/remibloston-med-m/gps/
 ||gmenace.monster^
+gmtpcy.com/ke-svym-109-narozeninam-czech/
 ||goldberghbunda.cz^
+goslakinvest.pro/
 ||goteoffer.com^
 ||grafis-studio.cz^
 ||grammebr.shop^
@@ -356,19 +389,24 @@
 ||hana-praha.cz^
 ||happyshop-cz.com^
 ||health-blog.me^
+health-news-2021.com/ketoz-cz-vy/
+health-spa-award.com/czp1/
 ||heiduk.cz^
 ||hello-deals.com^
 ||hellyhansenbundy.cz^
 ||hellyhansencz.cz^
+hgje.store/m3ntsjnh2o00
 ||hiousserp.monster^
 ||hobby-eshop.cz^
 ||hodinekrepliky.cz^
 ||hoka-boty.cz^
 ||hokacz.cz^
 ||hokaoneoneshop.cz^
+||hokejovedresy.com^
 ||homefyrt.com^
 ||homegaden.com^
 ||hoodrichcz.cz^
+hot-shopping-review.com/420/prolesanpure-med-m/gps/
 ||hranatost.cz^
 ||hs50bww.today^
 ||hsdfv.online^
@@ -381,7 +419,9 @@
 ||hydroflasktermoska.cz^
 ||icebug-eshop.cz^
 ||icell.cz^
+immstability.today/
 ||independentlife.shop^
+infoscrolling.com/420/taneralpro2-sakura/gps/
 ||innovaperfect.com^
 ||inuikiicz.cz^
 ||ipanemavyprodej.cz^
@@ -430,6 +470,7 @@
 ||kiwjhc.com^
 ||kklsmm.com^
 ||klarapraha.com^
+klinikaliberec.cz/lekarna
 ||kmd-pelety.com^
 ||koala-express.eu^
 ||kobiecamoda.shop^
@@ -456,6 +497,7 @@
 ||lada-praha.cz^
 ||largemarket.vip^
 ||lasportivacz.cz^
+laureshop.eu/cs
 ||laviquemoda.com^
 ||laviquepraha.com^
 ||lbres.shop^
@@ -471,25 +513,30 @@
 ||lenka-praha.cz^
 ||lenkapraha.com^
 ||leskauto.cz^
+levasan-maxx2.com/cz/
 ||levneairpody.cz^
 ||levnydopamin.cz^
 ||liagautier.cz^
 ||libuse-praha.cz^
+lidbeat.space/cmgk/
 ||lifebeautyme.com^
 ||lifeproducti.com^
 ||liformecz.com^
 ||linakocka.com^
+lingfluent.com/cs/
 ||liorapraha.cz^
 ||littlepioneer.cz^
 ||liviastyl.cz^
 ||lmmstore.com^
 ||lnkuefeo.newherbalfito.com^
 ||lnvxnxso.sourcesphyto.com^
+loftyteam.com/normalife_cr/
 ||longchampczeshop.cz^
 ||longchampkabelka.cz^
 ||loopearplugs.cz^
 ||louboutinboty.cz^
 ||love-puls.shop^
+lovecrazi.top/detail?id=dc007465-c161-4f19-a977-e7dea88e3101&path=ak_5606xtu376_y
 ||loveeds.com^
 ||lovina.cz^
 ||lowpricedproducts.online^
@@ -498,6 +545,7 @@
 ||lrui.store^
 ||lrvvzglc.bestwellbeings.com^
 ||lsplfwoz.newfitosources.com^
+luckysaleonline.com/page/4fd24b34549fb15308ecfa18a6dad68fe7ac6035/
 ||lufnpbht.fitoremedyheres.com^
 ||lujtf.shop^
 ||lukasbarbora-brno.com^
@@ -505,6 +553,7 @@
 ||lunapraha.cz^
 ||lushivack.shop^
 ||lywepwfi.newinfozdrav.com^
+lzztcbuj.bestremedyforpeople.com/
 ||maisonpraha.cz^
 ||mala-praha.com^
 ||mallinna.cz^
@@ -524,12 +573,14 @@
 ||medvidekterapie.cz^
 ||megaslevy.com^
 ||meindlcz.cz^
+mercatoincasa.com/fast-mower-isla-cze/#ordernow
 ||merrelleshop.cz^
 ||meyitow.com^
 ||michaelkorscz.cz^
 ||microbiologybytes.com^
 ||mikrocz.cz^
 ||milapraha.cz^
+milead.click/page/4b32c3759414cb0dbe871a542fdd68ad1819b5b3/
 ||milenapraha.cz^
 ||miourve.com^
 ||mira-butik.com^
@@ -552,21 +603,29 @@
 ||motorwarenhuis.de^
 ||mraky-kostek.cz^
 ||mriiry.shop^
+muama-enence.net/enence/cz/001d1w/index.html
 ||mvqwlk.com^
+mycpagettipotok2.com/tlwt/l/
+mynutraresearch.com/new-detonic-cz-1/
 ||nabytekcz.com^
 ||nagimi.com^
 ||naleapraha.com^
+naturaltovars.com/page/0fb2fea3457a6a39dabad0cf2b25317e8f4bf55b/
 ||nbcz.cz^
 ||neatrichit.com^
 ||nelinkaresell.com^
 ||nemcovapraha.cz^
 ||neocard-cz.lillyblock.com^
+nevergiveupyourmind.com/420/ayurreadpro-med-m-genius/gps/
 ||newadvanceremedy.com^
+news.cez-group.xfanclubs.com/?utm_medium=6413958084123&utm_campaign=kptranwyawvb&fbclid=iwar3uu0pflztnxiay5rcpsfm5u1u9zhzassyhtwzkcav-wzdqd7rat-atk4o
 ||newsstart.i-i-i.top^
+newsyoucanread24.com/article/coldin_cz/jeste-pred-3-tydny-chodila-jenom-s-berlemi/
 ||nfdxfg.shop^
 ||nhlnakupovani.com^
 ||nicliquid.com^
 ||nikecz.cz^
+nirt.co.uk/cs/artroser/
 ||niubianran.shop^
 ||nlyrico.lol^
 ||nmartial.monster^
@@ -595,6 +654,7 @@
 ||nuubu.com^
 ||nvgtn.cz^
 ||nvow.shop^
+oaaxltot.com/products/meoml
 ||obalynatelefon.cz^
 ||obchodicek.cz^
 ||obdaros.com^
@@ -604,6 +664,7 @@
 ||ocenter.shop^
 ||oecershop.com^
 ||oficialnilabubu.com^
+oggibenessere.com/onepower-ch
 ||oldmoneylondon.com^
 ||olenka.cz^
 ||olgneshop.com^
@@ -613,6 +674,7 @@
 ||on12.myshoplaza.com^
 ||on2025shop.myshoplaza.com^
 ||ondimarandcon.ga^
+onlineoffertstore.com/air-curtain-rep-ceca-pmax/?gad_source=1&amp;gclid=cj0kcqjwv_m-bhc4arisaiqnebthwmrewqvxzpwqnydhfbgxxys_rnxffk7plgn2_rccq6tbic0qi8aaloeealw_wcb
 ||onlineshop.2024salefactory.com^
 ||onrunningofficial.myshoplaza.com^
 ||onshop2025.myshoplaza.com^
@@ -624,6 +686,7 @@
 ||ormolulondon.com^
 ||ororowearcz.com^
 ||orthomax.cz^
+ortodoncie-hradeckralove.cz/obchod
 ||ortorex.cz^
 ||ortovox-eu.shop^
 ||orva-paris.com^
@@ -644,6 +707,7 @@
 ||parksidecz.com^
 ||parksidejmstore.com^
 ||patagonia-cz.cz^
+patchoz.com/cz
 ||paulaschoicecz.com^
 ||pclvg.shop^
 ||pepejeanseshopcz.cz^
@@ -660,9 +724,11 @@
 ||polene.cz^
 ||poleneparis.cz^
 ||polenepariskabelkycz.com^
+poliklinikakolbenova.cz/lekarna/
 ||polosralphlauren.cz^
 ||pompocz.club^
 ||pompoczsale.club^
+||poplatky-zpet.cz^
 ||potah-zidle.cz^
 ||powerglasses.co.uk^
 ||pradacz.cz^
@@ -672,6 +738,7 @@
 ||praha-couture.com^
 ||prahaatelier.cz^
 ||prahakrasa.com^
+praiseglories.info/12-zpusobu-jak-vytvorit-a-take-rozvijet-profesionalni-schopnosti-mimo-praci.php
 ||prenblog.com^
 ||primarkpraha.com^
 ||primechnnls.com^
@@ -688,6 +755,7 @@
 ||pxunhcz.com^
 ||pyrozeus.com^
 ||qeecra.com^
+qsggh.com/ccrywyc
 ||querid.top^
 ||rabat8.shop^
 ||rabbunda.cz^
@@ -700,10 +768,12 @@
 ||rcvih8dx.shop^
 ||rdbcjf.store^
 ||recenzeexpertu.cz^
+recenzetop.cz/artroser/
 ||redmi-czk.com^
 ||reebokcz.cz^
 ||reepollml168.vip^
 ||registr-dluzniku-k-nahlednuti-zdarma.cz^
+relatoncz.zdorovieludi.com/?country_code=cz
 ||rentgen-sonografie.cz^
 ||resellempire.store^
 ||retro-saty.cz^
@@ -711,11 +781,13 @@
 ||rfesj.ltd^
 ||rgdse.shop^
 ||rhasnog.com^
+rickerfriends.org/kingstown-zaluje-vitkovu-cpi-kvuli-udajnym-pomluvam-v-mediich/
 ||riekercz.com^
 ||riekerobuveshop.sk^
 ||rivio.cz^
 ||robeee.shop^
 ||rodinnepoklady.com^
+rondlysecj.club/96dezs?utm_medium=paid&utm_source=fb&utm_id=120233837815840246&utm_content=120233837815880246&utm_term=120233837815930246&utm_campaign=120233837815840246&fbclid=iwy2xjawm13allehrua2flbqewagfkawqbqygj-ghejgee60f9dh8pzmnypr9rlzmraowxxmmxozxgraachtxlomppaljw4atjuc21ub0_aem_yfw5r-4dfnlfx7eljr-uoa
 ||rosella-fashion.com^
 ||rotovaurvananoha.com^
 ||rotto-garage.com^
@@ -742,23 +814,29 @@
 ||scuffersczechrepublic.cz^
 ||securesmrt-dt.com^
 ||seekpo.shop^
+seethebestoptions.com/420/vanefistneo-br/gps/
 ||sennery.com^
 ||sensefit.shop^
 ||seogain.cz^
 ||severnistyl.com^
 ||sexyplastenky.cz^
 ||sfgnsv.shop^
+sharkorder.com/gh7p/l/
 ||shitforyou.eu^
 ||shoesetogs.com^
 ||shoeshopcz.cz^
+shop.bymbymp.shop/jgibf9ft
 ||shop.monteoc.com^
+shop.wwyyggz.shop/czsx24k
 ||shopcvrea.com^
 ||shopcz.cc^
 ||shopfasts.shop^
+shopoonline4.com/tkfb/l/
 ||shoprosea.cz^
 ||shopsaea.com^
 ||shoptoptovar.com^
 ||shuilongf.shop^
+sidushe.com/d.php?product_id=cljjpmf&amp;pp=0&amp;epik=dj0yjnu9os1wsgh6ejjjbu43ovluqzfjmwvjuznnwhpum3jbc2umcd0xjm49rwpmu1bwrmr2alpivg1zaxpyehjjzyz0pufbqufbr2lmdgvn
 ||siksilkcz.com^
 ||sikstylpraha.cz^
 ||simaginaryoir.shop^
@@ -769,6 +847,7 @@
 ||sirect.pro^
 ||sisimoda.com^
 ||siywo.shop^
+sjuy.store/
 ||skechersoutlet.cz^
 ||skvela-moda.cz^
 ||skyeyes.shop^
@@ -779,6 +858,7 @@
 ||sofiaplzen.cz^
 ||sofie-brno.cz^
 ||sofieliberec.cz^
+||solar-group.cz^
 ||solarniledlampa-cz.com^
 ||soloustores.com^
 ||solovaircz.top^
@@ -787,6 +867,7 @@
 ||soundcores.cz^
 ||south211.shop^
 ||soveracz.com^
+spagetlink.com/ttej/l/
 ||speedcrossnettbutikk.com^
 ||speedydiscount-cesko.com^
 ||spinix.cz^
@@ -798,14 +879,18 @@
 ||store.providerp.eu^
 ||storecze.com^
 ||storevuonel.com^
+stronginfo24.com/420/formelan-med-m/gps/
 ||stussy-praha.cz^
 ||stussyczechrepublic.cz^
 ||stussyincz.top^
 ||stussyscz.cz^
 ||stussyshop.cz^
 ||styllopraha.cz^
+suga-product.com/cz
+suggesthome.com/imboys/imboys-hoodie-fear-not-black
 ||sunglasshut.latest-polarized.com^
 ||sunhrenngb.monster^
+superbinvest.com/leos-mares-investuje-15-milionu-eur-do-startupu-a-rika-ze-zde-se-nachazi-budoucnost/
 ||superbriket.cz^
 ||supershoppingvip.com^
 ||suukne.shop^
@@ -819,9 +904,11 @@
 ||tacticalcz.com^
 ||tagkot.com^
 ||tammyplace.com^
+||tankphone-clearance.com^
 ||taschenz.shop^
 ||tatonkacz.com^
 ||tazwmzvy.newhealthcarenow.com^
+techdigital.live/blog.php?post=8xly02h9cp6kzm8kvid7&px=aw-11377437226/f4wzcpvul_uyekrul7eq%27&wd=prettyintelligent.live&keyword=investice&gclid=cjwkcaiag9urbhb_eiwagw88mb2zpvwo7iidfdk5k9xze0kb8rybnwnjsemnbxvcvuweum56umrpohoceaeqavd_bwe
 ||tempotime.cz^
 ||teniskyhokaoneone.sk^
 ||tereza-palivove.cz^
@@ -829,8 +916,10 @@
 ||tevabratislava.com^
 ||teveoeshop.cz^
 ||teveostore.cz^
+tg-lead.space/l1/kanabialica/m6/
 ||theantilife.com^
 ||thebox-cz.com^
+thecivicpost.com/powersaver-cz?sub2=mkztqbk3ngddv7jj59wifmftmv
 ||thenorthernfacecz.com^
 ||thenorthfacevyprodej.com^
 ||theproductcool.com^
@@ -878,6 +967,7 @@
 ||uinlialeu.lol^
 ||uisiaspants.shop^
 ||underarmour-cz.cz^
+unequalweb.com/viaskids/camibuso-bebe-nina-perrito-ecofriends-mayoral
 ||unihertz-cz.shop^
 ||uniqo.cz^
 ||unitascontainers.com^
@@ -886,7 +976,9 @@
 ||unsolvedmurder.cz^
 ||upartitionu.lol^
 ||urbaner-store.com^
+urotrin1cz.doctordays.com/l
 ||urunbahcesi.com^
+uspesnirodice.com/store
 ||uterezy.cz^
 ||utopiadigitalstore.com^
 ||uvres.shop^
@@ -942,15 +1034,13 @@
 ||whbizjzu.shop^
 ||wildmooncz.shop^
 ||woombike.cz^
+worldkv.com/pwn8rjvs
+worldtriviacenter.com/420/movenol2-m-med/gps/
 ||wotoda.com^
 ||wrmfw.shop^
 ||wshflav.lol^
 ||wworseou.lol^
-||www.hokejovedresy.com^
-||www.poplatky-zpet.cz^
-||www.solar-group.cz^
-||www.tankphone-clearance.com^
-||www.zahradnikem-nedopatrenim.cz^
+xchncern.monster/zeisscz#
 ||xxlobchod.com^
 ||yexard.com^
 ||yiqwniz.com^
@@ -959,8 +1049,12 @@
 ||yomerse.com^
 ||youngla.cz^
 ||younglaczshop.cz^
+youreduspace.com/420/lingfluent-med/
 ||yourketo.diet^
+yourmarket24.com/420/nutresin-med/gps/
+yousteround.com/cs-cz
 ||yummy-yump.com^
+||zahradnikem-nedopatrenim.cz^
 ||zakozpc.com^
 ||zaploss.com^
 ||zaraczeshop.com^
