@@ -34,11 +34,21 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 ---
 
 ### 🛠️ Podporované nástroje
-Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukromí:
 
-* **AdGuard (Mobilní aplikace, Desktop i AdGuard Home pro celou síť)
-* **uBlock Origin (Prohlížeč)
-* **Pi-hole (Celá domácí síť)
+Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukromí a zabezpečení:
+* **AdGuard** (Mobilní aplikace, Desktop i **AdGuard Home** pro celou síť)
+* **uBlock Origin** (Rozšíření pro prohlížeče)
+* **Pi-hole** (DNS filtr pro celou domácí síť)
+
+---
+
+### ⚠️ Upozornění pro uživatele DNS filtrů (Pi-hole / AdGuard Home)
+
+Tento seznam obsahuje jak celé domény, tak i **specifické cesty** (např. `web.com/podvod`). Protože DNS filtry pracují na úrovni celých domén, mějte na paměti:
+
+1. **Agresivnější blokování:** Pokud seznam obsahuje konkrétní podstránku na jinak legitimním webu, Pi-hole/AG Home **zablokuje přístup k celému tomuto webu**.
+2. **Falešná pozitiva:** Ve výjimečných případech se může stát, že bude nedostupná stránka, kterou běžně používáte, protože na ní ČOI detekovala rizikovou aktivitu.
+3. **Řešení:** Pokud potřebujete web nutně navštívit, přidejte si danou doménu do svého **Whitelistu** v administraci Pi-hole/AdGuard.
 
 ---
 
