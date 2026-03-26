@@ -1,4 +1,4 @@
-# 🛡️ Czech Scam Stop: Automatický Blocklist (ČOI)
+# 🛡️ Blocklist podvodných e-shopů (ČOI)
 
 > **Chraňte své blízké před podvodnými e-shopy.** Tento projekt denně mapuje "černou listinu" České obchodní inspekce a mění ji v digitální štít pro váš prohlížeč i celou síť.
 
