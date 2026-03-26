@@ -36,7 +36,7 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 ### 🛠️ Podporované nástroje
 Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukromí:
 
-* **AdGuard (Mobil i Desktop)
+* **AdGuard (Mobilní aplikace, Desktop i AdGuard Home pro celou síť)
 * **uBlock Origin (Prohlížeč)
 * **Pi-hole (Celá domácí síť)
 
