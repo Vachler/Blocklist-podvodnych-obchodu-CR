@@ -18,8 +18,9 @@ https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/b
 ```
 <div align="center">
 nebo
-</div>
+
 Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
+</div>
 
 👉 **[https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt](https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt)**
 
