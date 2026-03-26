@@ -16,3 +16,11 @@ Klikni pravým tlačítkem a zvol **"Kopírovat adresu odkazu"**:
 * **Počet domén:** Aktuálně cca 950+
 * **Aktualizace:** Automaticky každou půlnoc (přes GitHub Actions)
 * **Formát:** AdGuard/uBlock kompatibilní (`||domena.cz^`)
+
+---
+## ⚖️ Právní informace a autorská práva
+Všechna práva vyhrazena. Autorem tohoto skriptu i struktury seznamu je **Vachler**.
+
+- **Zákaz úprav a šíření:** Bez předchozího písemného souhlasu autora je zakázáno tento kód kopírovat, upravovat, šířit nebo jej využívat v jiných projektech.
+- **Použití:** Tento seznam (`blocklist.txt`) je určen výhradně pro osobní potřebu uživatelů v nástrojích jako AdGuard, uBlock Origin nebo Pi-hole.
+- **Odpovědnost:** Autor nenese žádnou odpovědnost za případné chyby nebo blokování legitimních stránek. Seznam je generován automaticky z veřejných dat ČOI.
