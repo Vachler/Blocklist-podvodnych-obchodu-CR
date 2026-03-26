@@ -2,44 +2,56 @@ import requests
 import re
 from datetime import datetime
 
-def get_coi_data():
-    url = "https://www.coi.cz/pro-spotrebitele/rizikove-e-shopy/"
-    domains = set()
+def update_blocklist():
+    url = "https://www.coi.cz/pro-spotrebitel/rizikove-e-shopy/"
+    
     try:
-        # Nastavení hlavičky, aby se skript tvářil jako prohlížeč
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
-        r = requests.get(url, headers=headers, timeout=30)
-        r.encoding = 'utf-8'
+        r = requests.get(url)
+        r.raise_for_status()
         
-        # Hledáme domény v textu stránky ČOI (mezi <span> tagy)
-        found = re.findall(r'<span>([a-z0-9.-]+\.[a-z]{2,10})</span>', r.text.lower())
+        # Najde vše v tagu <span>
+        found = re.findall(r'<span>(.*?)</span>', r.text)
         
-        for d in found:
-            clean = d.strip().strip('.')
-            # Základní kontrola, zda to vypadá jako doména
-            if '.' in clean and len(clean) > 4:
-                domains.add(clean)
-    except Exception as e:
-        print(f"Chyba při stahování: {e}")
-    return domains
+        items = set()
+        for text in found:
+            # Vyčištění od HTML a mezer
+            clean = re.sub('<[^<]+?>', '', text).strip().lower()
+            # Odstranění protokolu a www
+            clean = clean.replace('https://', '').replace('http://', '').replace('www.', '')
+            
+            if len(clean) > 4:
+                items.add(clean)
+        
+        if not items:
+            print("Chyba: Seznam je prázdný!")
+            return
 
-if __name__ == "__main__":
-    domains = get_coi_data()
-    # Převedeme domény na formát pro AdGuard/uBlock
-    final_list = sorted([f"||{d}^" for d in domains])
-
-    if final_list:
+        sorted_items = sorted(list(items))
+        date_str = datetime.now().strftime("%d.%m.%Y %H:%M")
+        
         with open("blocklist.txt", "w", encoding="utf-8") as f:
-            # Profesionální hlavička s mřížkami a metadaty
+            # Tvoje profesionální hlavička
             f.write("# ===============================================================\n")
             f.write("# NÁZEV: Blocklist rizikových e-shopů (zdroj COI.cz)\n")
-            f.write(f"# AKTUALIZOVÁNO: {datetime.now().strftime('%d.%m.%Y %H:%M')}\n")
-            f.write(f"# POČET POLOŽEK: {len(final_list)}\n")
+            f.write(f"# AKTUALIZOVÁNO: {date_str}\n")
+            f.write(f"# POČET POLOŽEK: {len(sorted_items)}\n")
             f.write("# FORMÁT: AdGuard / uBlock Origin / Pi-hole\n")
             f.write("# EXPIRES: 1 days\n")
             f.write("# PROJEKT: https://github.com/Vachler/Blocklist-podvodnych-obchodu-CR\n")
             f.write("# ===============================================================\n\n")
-            f.write("\n".join(final_list))
-        print(f"Hotovo! Nalezeno {len(final_list)} domén.")
-    else:
-        print("Chyba: Seznam je prázdný!")
+            
+            for item in sorted_items:
+                if '/' in item:
+                    # Dlouhé adresy (cesty) se píší přímo
+                    f.write(f"{item}\n")
+                else:
+                    # Čisté domény s AdGuard formátem
+                    f.write(f"||{item}^\n")
+                    
+        print(f"Hotovo! Nalezeno a zapsáno {len(sorted_items)} položek.")
+        
+    except Exception as e:
+        print(f"Chyba: {e}")
+
+if __name__ == "__main__":
+    update_blocklist()
