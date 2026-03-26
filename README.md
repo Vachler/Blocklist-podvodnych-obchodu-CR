@@ -69,3 +69,5 @@ Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje k
 
 * Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
 
+---
+![Návštěvnost](https://komarev.com/ghpvc/?username=Vachler-coi-blocklist&color=green&style=square&label=NÁVŠTĚVNOST)
