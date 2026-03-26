@@ -15,3 +15,14 @@ Neopisujte domény ručně. Stačí zkopírovat tento odkaz do vašeho blokátor
 
 ```text
 https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt
+
+---
+
+# 🛠️ Podporované nástroje
+Tento seznam je optimalizován pro nejoblíbenější nástroje na ochranu soukromí:
+
+AdGuard (Mobil i Desktop)
+
+uBlock Origin (Prohlížeč)
+
+Pi-hole (Celá domácí síť)
