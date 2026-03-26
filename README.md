@@ -52,6 +52,20 @@ Tyto nástroje filtrují provoz na úrovni DNS (domén). Pokud seznam obsahuje k
 
 ---
 
+## ⚡ Rychlá aktivace (One-Click)
+
+Pokud používáte **uBlock Origin** nebo **AdGuard** v prohlížeči, stačí kliknout na tlačítko níže a potvrdit odběr:
+
+<div align="center">
+
+[![Odebírat seznam](https://img.shields.io/badge/PŘIDAT_DO_PROHLÍŽEČE-DO_JEDNÉ_VTEŘINY-orange?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Vachler/Blocklist-podvodnych-obchodu-CR/main/blocklist.txt&title=Czech%20Scam%20Stop%20(COI))
+
+*Kliknutím se automaticky otevře nastavení vašeho adblocku.*
+
+</div>
+
+---
+
 ### 💡 Proč to používat?
 * **Podvodné weby vznikají a zanikají během hodin. Díky tomuto skriptu nemusíte sledovat zprávy ani web ČOI – váš blokátor se každou noc "naučí" rozpoznat nové hrozby, které inspekce odhalila.
 
